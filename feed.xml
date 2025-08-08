@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Digi Virtual ZH</title>
+    <link href="https://zh.digivirtual.top/feed.xml" rel="self" />
+    <link href="https://zh.digivirtual.top" />
+    <updated>2025-08-08T17:48:20+03:30</updated>
+    <author>
+        <name>DigiVirtual</name>
+    </author>
+    <id>https://zh.digivirtual.top</id>
+
+    <entry>
+        <title>阿根廷护照PSD模板</title>
+        <author>
+            <name>DigiVirtual</name>
+        </author>
+        <link href="https://zh.digivirtual.top/item/argentina-passport/"/>
+        <id>https://zh.digivirtual.top/item/argentina-passport/</id>
+        <media:content url="https://zh.digivirtual.top/media/posts/1/Argentina-Passport-en.jpg" medium="image" />
+            <category term="Passport"/>
+            <category term="PSD"/>
+            <category term="Argentina"/>
+
+        <updated>2025-08-07T15:37:07+03:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://zh.digivirtual.top/media/posts/1/Argentina-Passport-en.jpg" alt="Argentina Passport PSD Template" />
+                    <div class="product-meta">
+<div>🗂 Product Type :  Passport<br>🆔 Product ID: 0001<br>🌏 Country : Argentina<br>📎 Format : PSD</div>
+<div class="product-price"><span class="real-price">$19.99</span> <span class="discounted-price">$9.99</span><span class="discount-badge">Null</span></div>
+<a href="https://t.me/DigiVirtualTop" target="_blank" rel="noopener noreferrer" class="buy-now-btn btn"> <i class="fa-brands fa-telegram"></i> BUY FROM TELEGRAM </a></div>
+
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://zh.digivirtual.top/media/posts/1/Argentina-Passport-en.jpg" class="type:primaryImage" alt="Argentina Passport PSD Template" /></p>
+                <div class="product-meta">
+<div>🗂 Product Type :  Passport<br>🆔 Product ID: 0001<br>🌏 Country : Argentina<br>📎 Format : PSD</div>
+<div class="product-price"><span class="real-price">$19.99</span> <span class="discounted-price">$9.99</span><span class="discount-badge">Null</span></div>
+<a href="https://t.me/DigiVirtualTop" target="_blank" rel="noopener noreferrer" class="buy-now-btn btn"> <i class="fa-brands fa-telegram"></i> BUY FROM TELEGRAM </a></div>
+
+            ]]>
+        </content>
+    </entry>
+</feed>

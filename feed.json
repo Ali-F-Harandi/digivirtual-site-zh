@@ -1,0 +1,32 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Digi Virtual ZH",
+    "description": "",
+    "home_page_url": "https://zh.digivirtual.top",
+    "feed_url": "https://zh.digivirtual.top/feed.json",
+    "user_comment": "",
+    "icon": "https://zh.digivirtual.top/media/website/favicon-2.png",
+    "author": {
+        "name": "DigiVirtual"
+    },
+    "items": [
+        {
+            "id": "https://zh.digivirtual.top/item/argentina-passport/",
+            "url": "https://zh.digivirtual.top/item/argentina-passport/",
+            "title": "阿根廷护照PSD模板",
+            "summary": "<div class=\"product-meta\">\n<div>🗂 Product Type :  Passport<br>🆔 Product ID: 0001<br>🌏 Country : Argentina<br>📎 Format : PSD</div>\n<div class=\"product-price\"><span class=\"real-price\">$19.99</span> <span class=\"discounted-price\">$9.99</span><span class=\"discount-badge\">Null</span></div>\n<a href=\"https://t.me/DigiVirtualTop\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"buy-now-btn btn\"> <i class=\"fa-brands fa-telegram\"></i> BUY FROM TELEGRAM </a></div>\n",
+            "content_html": "<div class=\"product-meta\">\n<div>🗂 Product Type :  Passport<br>🆔 Product ID: 0001<br>🌏 Country : Argentina<br>📎 Format : PSD</div>\n<div class=\"product-price\"><span class=\"real-price\">$19.99</span> <span class=\"discounted-price\">$9.99</span><span class=\"discount-badge\">Null</span></div>\n<a href=\"https://t.me/DigiVirtualTop\" target=\"_blank\" rel=\"noopener noreferrer\" class=\"buy-now-btn btn\"> <i class=\"fa-brands fa-telegram\"></i> BUY FROM TELEGRAM </a></div>\n",
+            "image": "https://zh.digivirtual.top/media/posts/1/Argentina-Passport-en.jpg",
+            "author": {
+                "name": "DigiVirtual"
+            },
+            "tags": [
+                   "Passport",
+                   "PSD",
+                   "Argentina"
+            ],
+            "date_published": "2025-08-07T15:37:07+03:30",
+            "date_modified": "2025-08-08T17:48:20+03:30"
+        }
+    ]
+}
